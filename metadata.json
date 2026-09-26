@@ -1,0 +1,6 @@
+{
+  "name": "KARAN",
+  "description": "Personal AI coding and device-assistance agent with voice, memory, automation, and project tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

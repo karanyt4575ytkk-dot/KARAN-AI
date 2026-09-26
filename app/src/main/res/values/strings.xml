@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KARAN</string>
+    <string name="accessibility_service_description">KARAN uses this accessibility service exclusively when you request device automation to inspect permitted on-screen controls and perform authorized actions. It does not monitor sensitive information, passwords, or payment screens.</string>
+</resources>
